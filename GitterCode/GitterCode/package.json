@@ -1,0 +1,10 @@
+{
+  "name": "gitter-code",
+  "version": "0.0.0",
+  "description": "GitterCode",
+  "main": "app.js",
+  "author": {
+    "name": "james.craig",
+    "email": ""
+  }
+}
